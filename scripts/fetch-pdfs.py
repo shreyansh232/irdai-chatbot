@@ -3,8 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 
 
-BASE_URL = "https://irdai.gov.in"
-
 PAGE_URL = "https://irdai.gov.in/circulars?p_p_id=com_irdai_document_media_IRDAIDocumentMediaPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_irdai_document_media_IRDAIDocumentMediaPortlet_filterToDate=12%2F11%2F2025&_com_irdai_document_media_IRDAIDocumentMediaPortlet_filterFromDate=01%2F01%2F2023&_com_irdai_document_media_IRDAIDocumentMediaPortlet_resetCur=false&_com_irdai_document_media_IRDAIDocumentMediaPortlet_delta=93"
 
 # storing all pdfs in a directory
