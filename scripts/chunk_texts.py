@@ -1,8 +1,6 @@
 import os
 from glob import glob
 import json
-import math
-import tiktoken
 
 # create a chunks directory to store chunks
 os.makedirs("irdai_pdfs/chunks", exist_ok=True)
