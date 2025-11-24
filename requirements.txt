@@ -68,3 +68,4 @@ tzdata==2025.2
 ujson==5.11.0
 urllib3==2.5.0
 wcwidth==0.2.14
+streamlit

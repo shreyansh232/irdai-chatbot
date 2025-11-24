@@ -1,0 +1,589 @@
+# IRDAI Evaluation Set - Question Answer Pairs
+# Format: Document ID | Question | Answer
+# Generated from irdai_pdfs/texts/
+# Questions focus on regulatory content, not document metadata
+
+DOC_ID: 1
+QUESTION: What are the requirements for The board policy on commission structures for intermediaries?
+ANSWER: The board policy on commission structures for intermediaries shall, at the minimum, include the following key elements: (a) Objectives and Principles: The board policy shall clearly state the objectives and principles that underpin the commission structure
+--------------------------------------------------------------------------------
+
+DOC_ID: 1
+QUESTION: What are the requirements for Overall, the commission structure of intermediaries?
+ANSWER: Overall, the commission structure of intermediaries shall be designed to promote fair and transparent practices that protect policyholders' interests and encourage insurance penetration
+--------------------------------------------------------------------------------
+
+DOC_ID: 2
+QUESTION: What is the grace period for payment of premium?
+ANSWER: Grace Period for payment of premium:  
+a) The grace period of 15 days (where the premium is paid on a monthly basis) and 30 days (where the premium is paid in quarterly/half-yearly/annual installments) is available on the premium due date, to pay the premium
+--------------------------------------------------------------------------------
+
+DOC_ID: 2
+QUESTION: What benefits are available under the policy?
+ANSWER: Benefits payable on survival including maturity benefit  
+- Benefits payable on death  
+- Benefits payable on surrender of the policy  
+- Other benefits payable, if any  
+- Options available under the policy such as:  
+  a
+--------------------------------------------------------------------------------
+
+DOC_ID: 2
+QUESTION: What is the procedure for In addition to above, the PMC shall carry out proper due diligence?
+ANSWER: In addition to above, the PMC shall carry out proper due diligence process and record its concurrence/sign off on various product related risks (such as risks related to capital requirements, profitability, underwriting, reinsurance etc
+--------------------------------------------------------------------------------
+
+DOC_ID: 2
+QUESTION: What are the key elements of The underwriting policy shall be?
+ANSWER: The underwriting policy shall be consistent with principles of product design and pricing and shall be relevant and updated taking into account various regulatory stipulations and approvals of the Board from time to time
+--------------------------------------------------------------------------------
+
+DOC_ID: 3
+QUESTION: What is and Proliferation Financing?
+ANSWER: preferably on the same business day but not later than 24 hours in any case
+--------------------------------------------------------------------------------
+
+DOC_ID: 4
+QUESTION: What are the requirements regarding On review, certain provisions of the Master Guidelines?
+ANSWER: On review, certain provisions of the Master Guidelines shall stand modified as mentioned below:
+--------------------------------------------------------------------------------
+
+DOC_ID: 5
+QUESTION: What are the requirements for The board policy on commission structures for intermediaries?
+ANSWER: The board policy on commission structures for intermediaries shall, at a minimum, include the following key elements: (i) Objectives and Principles: The board policy shall clearly state the objectives and principles that underpin the commission structure
+--------------------------------------------------------------------------------
+
+DOC_ID: 6
+QUESTION: What are the requirements regarding All other CORs held by the erstwhile Transferor RRBs?
+ANSWER: All other CORs held by the erstwhile Transferor RRBs shall be surrendered through a formal written request to the Authority
+--------------------------------------------------------------------------------
+
+DOC_ID: 7
+QUESTION: What is the grace period for payment of premium?
+ANSWER: Grace Period  
+- Additional time after due date without penalty: 15 days for monthly premiums, 30 days for quarterly/half-yearly/annual premiums
+--------------------------------------------------------------------------------
+
+DOC_ID: 7
+QUESTION: What benefits are available under the policy?
+ANSWER: benefits payable on occurrence of insured events based on customer details
+--------------------------------------------------------------------------------
+
+DOC_ID: 8
+QUESTION: What is the free look period for life insurance policies?
+ANSWER: Free Look Period: A period of 30 days from receipt of the policy document is available to review terms and conditions
+--------------------------------------------------------------------------------
+
+DOC_ID: 8
+QUESTION: What are the key elements of It explains basic features of a policy simply and?
+ANSWER: It explains basic features of a policy simply and includes: a) Provided to every policyholder (individual and group members) b) Details such as: i
+--------------------------------------------------------------------------------
+
+DOC_ID: 9
+QUESTION: What are the requirements regarding As per Regulation 3(A) of above Regulations, advance?
+ANSWER: As per Regulation 3(A) of the above Regulations, an advance reinsurance programme shall be submitted by every insurer in a specified summary format to the Authority at least 45 days before the commencement of the financial year
+--------------------------------------------------------------------------------
+
+DOC_ID: 10
+QUESTION: What are the requirements regarding Form R-1 - Format of Application for Registration?
+ANSWER: Form R-1 - Format of Application for Registration of Branches of Foreign Reinsurers As per Regulation 5(3) of IRDAI (Registration and Operations of Foreign Reinsurers Branches and Lloyd's India) Regulations, 2024, an applicant whose Requisition for R1 application has been accepted shall submit the application in the specified format as below: FORM IRDAI/REINS/R1 [REGISTRATION APPLICATION FOR BRANCH OF FOREIGN REINSURER] 1
+--------------------------------------------------------------------------------
+
+DOC_ID: 11
+QUESTION: What is the procedure for Trade Credit Insurance and Reverse Factoring In light of the?
+ANSWER: Trade Credit Insurance and Reverse Factoring In light of the steps taken by RBI, IRDAI examined the feasibility of Trade Credit Insurance cover against "reverse factoring" transactions on TReDS platforms
+--------------------------------------------------------------------------------
+
+DOC_ID: 12
+QUESTION: What are the provisions regarding The rollover of investments in AIFs should be approved by the Board/Investment?
+ANSWER: The rollover of investments in AIFs should be approved by the Board/Investment Committee
+--------------------------------------------------------------------------------
+
+DOC_ID: 13
+QUESTION: What are the provisions regarding Ayushman Bharat Digital Mission (ABDM) is working on?
+ANSWER: The Ayushman Bharat Digital Mission (ABDM) is working on developing the necessary infrastructure to support an integrated digital health system in the country
+--------------------------------------------------------------------------------
+
+DOC_ID: 14
+QUESTION: What are the requirements regarding QIS1 shall be first major step towards desired?
+ANSWER: The QIS1 shall be the first major step towards the desired transformation and shall help in assessing the likely impact on the Indian Insurance Industry of the proposed framework for quantification of capital and solvency requirements following a risk-based approach
+--------------------------------------------------------------------------------
+
+DOC_ID: 15
+QUESTION: What are the limits specified?
+ANSWER: limits for investments in this entity will be considered in line with the limits prescribed for Public Limited Infrastructure Investee Company under note 3 of Regulation 9 of IRDAI (Investment) Regulations, 2016
+--------------------------------------------------------------------------------
+
+DOC_ID: 16
+QUESTION: What is Insurance?
+ANSWER: an arrangement by which a company, individual, or intending couple undertake to provide a guarantee of compensation for medical expenses, health issues, specified loss, damage, illness, or death of the surrogate mother and such other prescribed expenses incurred on such surrogate mother during the p
+--------------------------------------------------------------------------------
+
+DOC_ID: 16
+QUESTION: What is Insurance?
+ANSWER: an arrangement by which a company, individual, or commissioning couple undertake to provide a guarantee of compensation for specified loss, damage, complication, or death of the oocyte donor during the process of oocyte retrieval
+--------------------------------------------------------------------------------
+
+DOC_ID: 17
+QUESTION: What are the requirements regarding nsurers Subject: Investments in Infrastructure Debt Funds -?
+ANSWER: nsurers Subject: Investments in Infrastructure Debt Funds - NBFC Reference is drawn to Note 2 of Regulation 9 of IRDAI (Investment) Regulations 2016 which stipulates that "Investment in Infrastructure Debt Fund (IDF), backed by Central Government as approved by the Authority, on a case-to-case basis shall be reckoned for investments in infrastructure
+--------------------------------------------------------------------------------
+
+DOC_ID: 18
+QUESTION: What must b) Similarly, General, Stand-alone Health Insurers and Reinsurers do?
+ANSWER: b) Similarly, General, Stand-alone Health Insurers and Reinsurers shall have at least one actuary, in addition to Appointed Actuary, for pricing and valuation purposes on or before 31st December, 2024
+--------------------------------------------------------------------------------
+
+DOC_ID: 18
+QUESTION: What are the limits specified?
+ANSWER: limited period, may continue to work as Appointed Actuary beyond such limited period, provided the Appointed Actuary complies with the captioned Regulations
+--------------------------------------------------------------------------------
+
+DOC_ID: 19
+QUESTION: What are the provisions regarding This circular is issued in exercise of the powers conferred by Section?
+ANSWER: This circular is issued in exercise of the powers conferred by Section 14 (2) (e) of the Insurance Regulatory and Development Authority Act, 1999
+--------------------------------------------------------------------------------
+
+DOC_ID: 20
+QUESTION: What are the requirements regarding of IRDAI Investment Master Circular dated October 27,?
+ANSWER: of IRDAI Investment Master Circular dated October 27, 2022 applicable to the "Demerged Company" shall be reckoned for the purpose of classification of investment, in equity shares and preference shares in Resulting Investee Company(s), as "Approved Investment" or "Other Investment", for the initial t
+--------------------------------------------------------------------------------
+
+DOC_ID: 21
+QUESTION: What are the limits specified?
+ANSWER: limit specified in section 6A(4)(b) of the Act read with Registration Regulations, 2024, the prior approval of the Authority shall be sought before such exercise, in the manner as specified in Regulation 22 of the Registration Regulations, 2024
+--------------------------------------------------------------------------------
+
+DOC_ID: 21
+QUESTION: What is the procedure for Board Resolution of the transacting parties approving the?
+ANSWER: Board Resolution of the transacting parties approving the steps to undertake transactions which would result in change of structure of the respective transacting parties
+--------------------------------------------------------------------------------
+
+DOC_ID: 22
+QUESTION: What are the requirements regarding The Returns and Reports referred under this circular?
+ANSWER: The Returns and Reports referred under this circular shall be submitted as per the provisions herein and the master circular on submission of returns
+--------------------------------------------------------------------------------
+
+DOC_ID: 23
+QUESTION: What are the provisions regarding Attention is invited to IRDAI Circular ref: IRDAI/GA&HR/CIR/MISC/189/09/2022?
+ANSWER: Attention is invited to IRDAI Circular ref: IRDAI/GA&HR/CIR/MISC/189/09/2022 dated 06 Sep, 2022 advising Regulated Entities to observe "Cyber Jaagrookta Diwas (CJD)" on the first Wednesday of every month
+--------------------------------------------------------------------------------
+
+DOC_ID: 24
+QUESTION: What are the requirements regarding Messages containing other URLs/Apks/OTT links/Call back numbers shall?
+ANSWER: Messages containing other URLs/Apks/OTT links/Call back numbers shall be stopped from further transmission
+--------------------------------------------------------------------------------
+
+DOC_ID: 25
+QUESTION: What are the limits specified?
+ANSWER: limits outlined in Regulation 26 of the said regulations
+--------------------------------------------------------------------------------
+
+DOC_ID: 26
+QUESTION: What are the requirements regarding f above provisions and with objective of making?
+ANSWER: f the above provisions and with the objective of making available an appropriate product offering health insurance cover for certain vulnerable sections of society, namely Persons with Disabilities (PWD), Persons afflicted with HIV/AIDS, and those with Mental Illness, all general and health insurers shall offer a specific cover for these categories
+--------------------------------------------------------------------------------
+
+DOC_ID: 27
+QUESTION: What are the regulatory provisions regarding Survey No. 115/1, Financial District, Nanakramguda, Hyderabad 500 032 All?
+ANSWER: Survey No. 115/1, Financial District, Nanakramguda, Hyderabad 500 032 All Regulated Entities and Training Institutes Attention is invited to IRDAI Circular ref: IRDAI/GA&HR/CIR/MISC/189/09/2022 dated 06th September 2022 and Circular ref: IRDAI/GA&HR/CIR/MISC/184/10/2023 dated 19th October 2023 advising Regulated Entities to observe the 1st Wednesday of every month as Cyber Jaagrookta Diwas (CJD) and to celebrate the month of October as National C...
+--------------------------------------------------------------------------------
+
+DOC_ID: 28
+QUESTION: What are the provisions regarding Shri Steve D'Souza, VP & CISO, ICICI Lombard General Insurance - Member?
+ANSWER: Shri Steve D'Souza, VP & CISO, ICICI Lombard General Insurance - Member 8
+--------------------------------------------------------------------------------
+
+DOC_ID: 30
+QUESTION: What are the requirements regarding Investment in Sovereign Green Bonds shall be treated?
+ANSWER: Investment in Sovereign Green Bonds shall be treated as "Investment in Infrastructure" and shall be classified as "Central Government Securities" under the following Category Code:  
+
+Investment Category Heads | CAT Code  
+Sovereign Green Bonds | U/A05  
+
+Venkata Ramana  
+General Manager (F&I)
+--------------------------------------------------------------------------------
+
+DOC_ID: 31
+QUESTION: What are the requirements regarding clocks of relevant information processing systems within organization?
+ANSWER: The clocks of all relevant information processing systems within the organization or security domain shall be synchronized with Network Time Protocol (NTP) Server of National Informatics Centre (NIC), National Physical Laboratory (NPL), or with NTP Servers traceable to these servers
+--------------------------------------------------------------------------------
+
+DOC_ID: 32
+QUESTION: What are the requirements regarding Insurance Regulatory and Development Authority of India (Registration?
+ANSWER: Insurance Regulatory and Development Authority of India (Registration and operations of Foreign Reinsurers Branches and Lloyd's India) Regulations, 2024  
+
+This Master Circular shall be known as the Master Circular on Submission of Returns
+--------------------------------------------------------------------------------
+
+DOC_ID: 33
+QUESTION: What are the limits specified?
+ANSWER: limit is 12 years; extension up to 15 years possible with Authority approval
+--------------------------------------------------------------------------------
+
+DOC_ID: 34
+QUESTION: What are the requirements regarding (including Life and Standalone Health Insurers) advised to?
+ANSWER: All Insurers (including Life and Standalone Health Insurers) are advised to submit information related to the claims to the IRDAI in the format attached on a weekly basis at nl-catastrophe@irdai
+--------------------------------------------------------------------------------
+
+DOC_ID: 35
+QUESTION: What are the requirements regarding Master Circular shall come into force from date?
+ANSWER: This Master Circular shall come into force from the date of its issuance and shall be in effect for a period of 3 years from the date of its issuance unless reviewed and/or extended earlier
+--------------------------------------------------------------------------------
+
+DOC_ID: 36
+QUESTION: What are the requirements regarding ss Products | 2019-24 | Annexure - IV?
+ANSWER: ss Products  | 2019-24  | Annexure - IV |  
+| 5       | Group Credit Life          | 2020-24  | Annexure - V  |  
+| 6       | Group Term Insurance       | 2020-24  | Annexure - VI |  
+| 7       | PMJJBY                     | 2020-24  | Annexure - VII|  
+
+(2) Submission from FY 2024-25  
+The insurers shall continue to submit the data annually from FY 2024-25 within three months of completion of every Financial Year
+--------------------------------------------------------------------------------
+
+DOC_ID: 37
+QUESTION: What are the limits specified?
+ANSWER: limitations - what are the exclusions and limitations that will impact the coverage under the policy
+--------------------------------------------------------------------------------
+
+DOC_ID: 38
+QUESTION: What are the limits specified?
+ANSWER: limit which may be utilized by any or all members | | 5
+--------------------------------------------------------------------------------
+
+DOC_ID: 39
+QUESTION: What are the provisions regarding Consequent to the amendments made to the PML Rules, the following modifications?
+ANSWER: Consequent to the amendments made to the PML Rules, the following modifications are effected to the Master Guidelines dated 1st August 2022: 3
+--------------------------------------------------------------------------------
+
+DOC_ID: 40
+QUESTION: What are the requirements regarding General and Standalone Health Insurance Companies advised to?
+ANSWER: General Insurers and Standalone Health Insurance Companies are advised to mobilize all resources to ensure immediate service response, including outsourced functions such as investigators, surveyors, and loss adjustors as follows:  
+   a
+--------------------------------------------------------------------------------
+
+DOC_ID: 41
+QUESTION: What are the provisions regarding Form LR-2: Particulars of Surplus Treaty, submitted on yearly basis?
+ANSWER: Form LR-2: Particulars of Surplus Treaty, submitted on yearly basis
+--------------------------------------------------------------------------------
+
+DOC_ID: 42
+QUESTION: What are the provisions regarding In order to avoid any hardship to the policyholders, the insurers are?
+ANSWER: In order to avoid any hardship to the policyholders, the insurers are hereby advised to keep their offices open as per normal working hours on 29th, 30th, and 31st March, 2025
+--------------------------------------------------------------------------------
+
+DOC_ID: 43
+QUESTION: What is contactability through any?
+ANSWER: and remaining unpaid beyond twelve months from the due date of such amount
+--------------------------------------------------------------------------------
+
+DOC_ID: 43
+QUESTION: What is the purpose of this circular?
+ANSWER: proposer, policyholder, life assured, nominee, beneficiary or any other person who has financial interest in the policy as per the terms and conditions of the insurance policy
+--------------------------------------------------------------------------------
+
+DOC_ID: 43
+QUESTION: What benefits are available under the policy?
+ANSWER: benefits payable during the policy with respect to insurance policies which are in-force either by reduced paid-up or by fully paid-up policies on due date, but shifted to unclaimed due to six-month window for payments; e) consumers have not claimed annuity options and maturity proceeds from pension and insurance p
+--------------------------------------------------------------------------------
+
+DOC_ID: 44
+QUESTION: What are the requirements regarding on "AYUSH Treatment" and "AYUSH" referred to at?
+ANSWER: on "AYUSH Treatment" and "AYUSH" referred to at clause 11 in the Table of Benefits as well as Product Construct have been modified and shall be read as under:  
+
+"Expenses incurred for inpatient care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems of medicines are covered up to 100% of the Sum Insured
+--------------------------------------------------------------------------------
+
+DOC_ID: 45
+QUESTION: What are the requirements regarding E) - Central Motor Vehicles (Fifth Amendment) Rules,?
+ANSWER: E) - Central Motor Vehicles (Fifth Amendment) Rules, 2022  
+
+Procedure for Investigation of Motor Vehicle Accidents  
+
+All the General Insurers carrying on Motor Insurance business shall note their roles and responsibilities and strictly comply with the provisions of the above notifications
+--------------------------------------------------------------------------------
+
+DOC_ID: 46
+QUESTION: What are the requirements regarding IRDA/SUR/CIR/MISC/042/02/2020 dated 04th February 2020, allowed addition of?
+ANSWER: IRDA/SUR/CIR/MISC/042/02/2020 dated 04th February 2020, allowed addition of LOB on Surveyor license of an individual SLA on the basis of categorization letter issued by the Authority, as per para 1 above, who possess pertinent educational qualification and whose
+--------------------------------------------------------------------------------
+
+DOC_ID: 47
+QUESTION: What are the requirements regarding Statement of changes to withdrawn products mentioned in Annexure I?
+ANSWER: Statement of changes to withdrawn products mentioned in Annexure I shall be submitted on an annual basis along with the Appointed Actuary's Annual Report
+--------------------------------------------------------------------------------
+
+DOC_ID: 48
+QUESTION: What are the provisions regarding To rationalise, streamline regulatory framework, enhance clarity and?
+ANSWER: To rationalise, streamline the regulatory framework, enhance clarity and reduce complexity in compliance requirements, various redundant circulars, guidelines, and clarifications issued by the Authority are repealed
+--------------------------------------------------------------------------------
+
+DOC_ID: 49
+QUESTION: What are the requirements regarding IRDAI licensed entity (Regulated Entity/ies), sending commercial communication?
+ANSWER: An IRDAI licensed entity (Regulated Entity/ies), sending commercial communication to its existing or prospective customers shall fulfill TRAI prescribed regulatory requirements
+--------------------------------------------------------------------------------
+
+DOC_ID: 50
+QUESTION: What are the requirements regarding (General, Life, and Standalone Health Insurers) advised to?
+ANSWER: All insurers (General, Life, and Standalone Health Insurers) are advised to submit information related to the Cyclone/flood claims to the IRDAI in the format attached on a weekly basis at nl-catastrophe@irdai
+--------------------------------------------------------------------------------
+
+DOC_ID: 51
+QUESTION: What are the requirements regarding he Authority) Regulations, 2025, following clarification issued: With?
+ANSWER: he Authority) Regulations, 2025, the following clarification is issued:  
+
+With reference to the proviso to Regulation 9 of the aforesaid regulations, it is clarified that Foreign Reinsurers' branches and Lloyd's India (including its Syndicates and service companies), when they collect such records, shall maintain those records in India
+--------------------------------------------------------------------------------
+
+DOC_ID: 52
+QUESTION: What are the requirements regarding Incident and Problem Management' in IRDAI Information and?
+ANSWER: Incident and Problem Management' in IRDAI Information and Cyber Security Guidelines, 2023 dated 24th April 2023, wherein it is stated that:
+
+"Organization shall mandatorily report cyber incidents to CERT-In within 6 hours of noticing or being brought to notice about such incidents with a copy to IRDAI and other concerned regulatory authorities
+--------------------------------------------------------------------------------
+
+DOC_ID: 53
+QUESTION: What are the requirements regarding For purpose of Master Circular, unless context otherwise?
+ANSWER: For the purpose of this Master Circular, unless the context otherwise requires, the terms and expressions used herein shall have the same meaning as assigned to them in the Insurance Regulatory and Development Authority of India (Rural, Social Sector and Motor Third Party Obligations) Regulations, 2024
+--------------------------------------------------------------------------------
+
+DOC_ID: 54
+QUESTION: What are the provisions regarding The Authority has decided to stop the facility of repayment of loans?
+ANSWER: The Authority has decided to stop the facility of repayment of loans taken against the insurance policy using credit card as a mode of payment
+--------------------------------------------------------------------------------
+
+DOC_ID: 55
+QUESTION: What are the requirements regarding A summary of the material risks arising out of outsourcing contracts?
+ANSWER: A summary of the material risks arising out of outsourcing contracts shall be reviewed by the Risk Management Committee at least once a year
+--------------------------------------------------------------------------------
+
+DOC_ID: 56
+QUESTION: What are the requirements regarding General and Standalone Health Insurance Companies advised to?
+ANSWER: General Insurers and Standalone Health Insurance Companies are advised to mobilize all resources to ensure immediate service response, including by outsourced functions such as investigators, surveyors, and loss adjustors as follows:  
+
+a
+--------------------------------------------------------------------------------
+
+DOC_ID: 57
+QUESTION: What is This circular?
+ANSWER: the provisions of Section 12A of The Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005 (WMD Act)
+--------------------------------------------------------------------------------
+
+DOC_ID: 58
+QUESTION: What are the requirements regarding The said exemption?
+ANSWER: The said exemption shall only be with respect to holdings of the respective insurers as on 30 June 2023 and the same shall be scaled down to the extent of sale of shares thereafter
+--------------------------------------------------------------------------------
+
+DOC_ID: 58
+QUESTION: What are the limits specified?
+ANSWER: limits prescribed for segregated funds of ULIP with respect to investments in the equity shares of HDFC Bank Ltd (post-merger)
+--------------------------------------------------------------------------------
+
+DOC_ID: 59
+QUESTION: What are the limits specified?
+ANSWER: limit of losses for appointment of Surveyors and Loss Assessors specified in Regulation 12(2) of the IRDAI (Insurance Surveyors and Loss Assessors) Regulations, 2015 as per the following: 1) Motor insurance - from current Rs
+--------------------------------------------------------------------------------
+
+DOC_ID: 60
+QUESTION: What must Clause 3(a)(iii) of the said Circular provides that "Insurer do?
+ANSWER: Clause 3(a)(iii) of the said Circular provides that "Insurer shall not pay any remuneration to non-executive directors without prior approval of the Authority
+--------------------------------------------------------------------------------
+
+DOC_ID: 60
+QUESTION: What are the limits specified?
+ANSWER: limits specified in the Guidelines on Remuneration of Non-Executive Directors and Managing Director/Chief Executive Officer/Whole-time Directors of Insurers, as amended from time to time
+--------------------------------------------------------------------------------
+
+DOC_ID: 61
+QUESTION: What is Financial information user?
+ANSWER: an entity registered with and regulated by any financial sector regulator
+--------------------------------------------------------------------------------
+
+DOC_ID: 62
+QUESTION: What are the requirements regarding Further, summary of activities carried out during month?
+ANSWER: Further, the summary of activities carried out during the month shall be submitted to the Authority at infosec@irdai
+--------------------------------------------------------------------------------
+
+DOC_ID: 63
+QUESTION: What are the requirements regarding (A) of Chapter 3 of Master Circular on?
+ANSWER: a (A) of Chapter 3 of the Master Circular on IRDAI (Actuarial, Finance and Investment Functions of Insurers) Regulations, 2024, insurers are allowed as users with the following types of Rupee Interest Rate Derivatives to hedge the interest rate risk: i
+--------------------------------------------------------------------------------
+
+DOC_ID: 64
+QUESTION: What are the provisions regarding In order to avoid any hardship to the policyholders, the insurers are?
+ANSWER: In order to avoid any hardship to the policyholders, the insurers are hereby advised to keep their offices open as per normal working hours on March 30, 2024 and March 31, 2024
+--------------------------------------------------------------------------------
+
+DOC_ID: 65
+QUESTION: What is the procedure for You are advised to initiate immediate?
+ANSWER: You are advised to initiate immediate steps for quick registration and disposal of claims on the following lines: i
+--------------------------------------------------------------------------------
+
+DOC_ID: 66
+QUESTION: What must Insurers shall have a Board approved policy for providing AYUSH... do?
+ANSWER: Insurers shall have a Board approved policy for providing AYUSH coverage, which shall include their approach towards placing AYUSH treatments at par with other treatments for the purpose of health insurance so as to provide an option for the policyholders to choose treatment of their
+--------------------------------------------------------------------------------
+
+DOC_ID: 66
+QUESTION: What are the limits specified?
+ANSWER: limitations for AYUSH treatments and ensure compliance with the above directions
+--------------------------------------------------------------------------------
+
+DOC_ID: 67
+QUESTION: What are the requirements regarding ii)(a) of Part of Schedule I of Regulation?
+ANSWER: ii)(a) of Part A of Schedule I of Regulation 10: i) The text "First year Regular Premium" shall be read as "In respect of policies with premium payment term 10 years and above
+--------------------------------------------------------------------------------
+
+DOC_ID: 68
+QUESTION: What is the procedure for You are advised to initiate immediate?
+ANSWER: You are advised to initiate immediate steps for quick registration and disposal of claims on the following lines:
+--------------------------------------------------------------------------------
+
+DOC_ID: 69
+QUESTION: What are the limits specified?
+ANSWER: limited to laws pertaining to taxation, foreign exchange, anti-money laundering, and combating the financing of terrorism:  
+1
+--------------------------------------------------------------------------------
+
+DOC_ID: 70
+QUESTION: What are the provisions regarding Certificate of Insurance Number (required for Group Insurance policies): 8?
+ANSWER: Certificate of Insurance Number (required for Group Insurance policies): 8
+--------------------------------------------------------------------------------
+
+DOC_ID: 71
+QUESTION: What are the provisions regarding Reference is drawn to the following provisions of the above Acts/Rules: (i)?
+ANSWER: Reference is drawn to the following provisions of the above Acts/Rules: (i) Section 4(iii)(a)(III) of Surrogacy (Regulation) Act, 2021 states as under: “An insurance coverage of such amount and in such manner as may be prescribed in favour of the surrogate mother for a period of thirty-six months covering postpartum delivery complications from an insurance company or an agent recognised by the Insu
+--------------------------------------------------------------------------------
+
+DOC_ID: 72
+QUESTION: What are the requirements regarding urers transacting General or Health Insurance Business) Regulations,?
+ANSWER: urers transacting General or Health Insurance Business) Regulations, 2023 dated 26th March, 2023 and IRDAI (Payment of Commission) Regulations, 2023 dated 26th March, 2023, the Para 15(5)(c) on the maximum distribution fees payable to MISP is replaced as under: "The distribution fees payable to MISP shall be as per Board approved policy for payment of commission of the insurer
+--------------------------------------------------------------------------------
+
+DOC_ID: 73
+QUESTION: What are the requirements regarding policies issued under Retail Lines of Business shall?
+ANSWER: All policies issued under the Retail Lines of Business shall not have any Arbitration Clause
+--------------------------------------------------------------------------------
+
+DOC_ID: 74
+QUESTION: What are the limits specified?
+ANSWER: limits for approval of cashless claims, mandating insurers to make available products, add-ons, and riders to provide wider choice to policyholders and prospects catering to all ages; all types of medical, pre-existing diseases and chronic conditions; all
+--------------------------------------------------------------------------------
+
+DOC_ID: 74
+QUESTION: What are the key elements of Measures taken in the interest of policyholders?
+ANSWER: Measures taken in the interest of policyholders include mandatory time limits for approval of cashless claims, mandating insurers to make available products, add-ons, and riders to provide wider choice to policyholders and prospects catering to all ages; all types of medical, pre-existing diseases and chronic conditions; all systems of medicines and treatments; all types of hospitals and healthcare providers
+--------------------------------------------------------------------------------
+
+DOC_ID: 76
+QUESTION: What are the limits specified?
+ANSWER: limit at any point of time, the insurer shall stop underwriting new Surety Insurance business until its solvency margin is restored to above the threshold limit
+--------------------------------------------------------------------------------
+
+DOC_ID: 77
+QUESTION: What must Each insurer shall nominate a Nodal Officer at senior level who do?
+ANSWER: Each insurer shall nominate a Nodal Officer at senior level who shall coordinate with the Joint Cell and will be responsible for speedy settlement of the claims of their insurance company
+--------------------------------------------------------------------------------
+
+DOC_ID: 78
+QUESTION: What are the requirements regarding In accordance with above directions of Hon'ble Madras?
+ANSWER: In accordance with the above directions of the Hon'ble Madras High Court, the Authority, in exercise of the powers conferred by Section 14(2) of the Insurance Act, 1938, hereby issues the following directions:  
+
+(i) All General Insurers carrying on motor insurance business shall provide coverage to employees travelling in the employer's vehicle (including paid driver, if applicable) under IMT-29 of the Indian Motor Tariff, compulsorily as an inb...
+--------------------------------------------------------------------------------
+
+DOC_ID: 79
+QUESTION: What are the regulatory requirements regarding Consequent to notification of IRDAI (Expenses of Management,?
+ANSWER: Consequent to the notification of IRDAI (Expenses of Management, including commission, of insurers) Regulations, 2024, the circular on "Payment of Commission, remuneration, rewards and distribution fees under Long Term Motor Insurance Policies" Circular No. IRDA/INT/CIR/Comm/139/08/2018 dated 29th August, 2018 has become redundant. Hence, the mentioned circular stands repealed.
+--------------------------------------------------------------------------------
+
+DOC_ID: 80
+QUESTION: What must The insurer shall partner with multiple banks and do?
+ANSWER: The insurer shall partner with multiple banks and shall have appropriate systems and processes in place and necessary contractual agreements with the partner banks so that:
+--------------------------------------------------------------------------------
+
+DOC_ID: 81
+QUESTION: What are the provisions regarding This direction has the approval of the competent authority and shall come?
+ANSWER: This direction has the approval of the competent authority and shall come into force with immediate effect
+--------------------------------------------------------------------------------
+
+DOC_ID: 82
+QUESTION: What are the requirements regarding ii) The threshold limit of 20% for each Mutual Fund?
+ANSWER: ii) The threshold limit of 20% for each Mutual Fund shall include investments in Exchange Traded Funds (ETFs) also
+--------------------------------------------------------------------------------
+
+DOC_ID: 82
+QUESTION: What are the limits specified?
+ANSWER: limit of 20% for each Mutual Fund shall include investments in Exchange Traded Funds (ETFs) also
+--------------------------------------------------------------------------------
+
+DOC_ID: 83
+QUESTION: What is the procedure for The current health insurance claims settlement?
+ANSWER: The current health insurance claims settlement process in the country is mostly manual and non-digital, resulting in improper data flow and administration, which causes delays in claim processing
+--------------------------------------------------------------------------------
+
+DOC_ID: 84
+QUESTION: What are the requirements regarding expected to review and streamline processing of claims?
+ANSWER: Insurers are expected to review and streamline the processing of claims by ensuring only such documentation necessary to substantiate claim quantum is required, to ensure expeditious final settlement
+--------------------------------------------------------------------------------
+
+DOC_ID: 85
+QUESTION: What must Insurers may please note that the Technical Guidance referred to here do?
+ANSWER: Insurers may please note that the Technical Guidance referred to here shall be for the purpose of QIS 2 only and shall not be interpreted as indicative of the final decision of the IRDAI on the RBC framework
+--------------------------------------------------------------------------------
+
+DOC_ID: 85
+QUESTION: What is the procedure for The QIS 2 shall be the pivotal?
+ANSWER: The QIS 2 shall be the pivotal step towards the transition of the Indian Insurance Industry to the Risk Based Capital regime
+--------------------------------------------------------------------------------
+
+DOC_ID: 86
+QUESTION: What are the requirements regarding (including Life and Standalone Health Insurers) advised to?
+ANSWER: All insurers (including Life and Standalone Health Insurers) are advised to submit information related to the claims to the IRDAI in the format attached on a weekly basis at nl-catastrophe@irdai
+--------------------------------------------------------------------------------
+
+DOC_ID: 87
+QUESTION: What are the requirements regarding Hence, applicants seeking NOC or applying for CoR?
+ANSWER: Hence, applicants seeking NOC or applying for CoR are advised to send their applications or related requests only to the dedicated email addresses mentioned below until the portals are revamped:  
+
+| S
+--------------------------------------------------------------------------------
+
+DOC_ID: 88
+QUESTION: What are the requirements regarding surety insurance business of mono-line surety insurance companies?
+ANSWER: The surety insurance business of mono-line surety insurance companies shall be subject to such prudential norms as may be specified from time to time
+--------------------------------------------------------------------------------
+
+DOC_ID: 89
+QUESTION: What must ce Act, 1938 specifies that every insurer carrying on general... do?
+ANSWER: Section 32D of the Insurance Act, 1938 specifies that every insurer carrying on general insurance business shall, after the commencement of the Insurance Laws (Amendment) Act, 2015, underwrite such minimum percentage of insurance business in third party risks of motor vehicles as may be specified by the regulat
+--------------------------------------------------------------------------------
+
+DOC_ID: 90
+QUESTION: What are the regulatory requirements regarding IRDAI issued circular ref?
+ANSWER: IRDAI issued circular ref. IRDAI/IID/CIR/MISC/86/4/2023 dated 19th April 2023 on the captioned subject wherein Order dated 30th January 2023 of Department of Revenue specifying the procedure for implementation of Section 12A of The WMD Act was provided as Annexure I.
+--------------------------------------------------------------------------------
+
+DOC_ID: 91
+QUESTION: What are the provisions regarding This master circular shall be known as Master Circular on Rural, Social?
+ANSWER: This master circular shall be known as Master Circular on Rural, Social Sector and Motor Third Party Obligations, 2025
+--------------------------------------------------------------------------------
+
+DOC_ID: 92
+QUESTION: What are the requirements regarding General and Standalone Health Insurance Companies advised to?
+ANSWER: General Insurers and Standalone Health Insurance Companies are advised to mobilize all resources to ensure immediate service response, including outsourced functions such as Surveyors, Loss Adjustors, and Investigators
+--------------------------------------------------------------------------------
+
+DOC_ID: 93
+QUESTION: What are the requirements regarding The provisions of the above-referred circulars?
+ANSWER: The provisions of the above-referred circulars shall remain valid except to the extent specified under this circular
+--------------------------------------------------------------------------------
+
+DOC_ID: 94
+QUESTION: What are the requirements regarding General and Standalone Health Insurance Companies advised to?
+ANSWER: General Insurers and Standalone Health Insurance Companies are advised to mobilize all resources to ensure immediate service response including outsourced functions such as Surveyors, Loss Adjustors, and Investigators
+--------------------------------------------------------------------------------
+
